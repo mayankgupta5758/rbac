@@ -1,7 +1,5 @@
 # RBAC UI Dashboard
 
-Live Deploy Link - https://rbacdashboardbyabhay.netlify.app/
-
 ## Overview
 
 The RBAC (Role-Based Access Control) UI Dashboard is a comprehensive web application built with Next.js and React. It provides a user-friendly interface for managing users, roles, and permissions in a role-based access control system. This project demonstrates best practices in building responsive, accessible, and feature-rich admin interfaces.
@@ -36,8 +34,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 
-git clone [https://github.com/MrAbhayKumawat/rbac-ui-dashboard.git](https://github.com/MrAbhayKumawat/rbac-ui-dashboard.git)
-cd rbac-ui-dashboard
+git clone
+cd rbac
 
 
 3. Install shadcn/ui components:
@@ -109,10 +107,6 @@ rbac-ui-dashboard/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Next.js](https://nextjs.org/)
@@ -120,7 +114,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Lucide Icons](https://lucide.dev/)
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact [mrabhaykumawat9@gmail.com](mailto:mrabhaykumawat9@gmail.com).
